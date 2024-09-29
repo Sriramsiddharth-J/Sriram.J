@@ -10,6 +10,6 @@ services:
         restart: always
         
         environment:
-            POSTGRES_USER: docker
+            POSTGRES_USER: docker1
             POSTGRES_PASSWORD: docker
             POSTGRES_DB: docker_db
